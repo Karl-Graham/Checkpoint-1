@@ -6,7 +6,7 @@ namespace Checkpoint01
     {
         static void Main(string[] args)
         {
-            
+            //TODO:Färga input-texten grön...hallå
             string input = GetUserInput();
             Console.WriteLine();
             string[] trianglesArray = CreateArrayofTriangles(input);
