@@ -24,6 +24,7 @@ namespace Checkpoint01
                                                        
         }
 
+        //TODO: ändra ordningen på metoderna till att motsvara hur programmet körs, dvs GetUserInput() borde ligga ovanför CreateArrayOfTriangles
         private static string GetUserInput()
         {
             Console.Write("Write command: ");
